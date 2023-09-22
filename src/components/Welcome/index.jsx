@@ -1,4 +1,4 @@
-import styles from "./Welcome.module.scss";
+import styles from "./Welcome.css";
 import Quiz from "../../assets/img/quiz.svg";
 
 const Welcome = () => {
