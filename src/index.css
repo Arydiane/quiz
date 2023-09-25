@@ -2,7 +2,9 @@
   --white: #fff;
   --black: #1c1c1c;
   --dark-purple: rgba(132, 53, 222, 1);
-  --light-purple: rgba(184, 84, 232, 1);
+  --light-purple: hsl(281, 76%, 62%);
+  --purple: #3c0e70;
+  --green: #0bfc03; 
 }
 
 * {
