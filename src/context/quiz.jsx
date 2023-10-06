@@ -58,8 +58,6 @@ const quizReducer = (state, action) => {
       };
 
     case "NEW_GAME":
-      console.log(questions);
-      console.log(initialState);
       return initialState;
 
     case "CHECK_ANSWER":
