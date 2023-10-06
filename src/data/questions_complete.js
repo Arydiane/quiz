@@ -1,5 +1,6 @@
 const data = [
   {
+    idCategory: 1,
     category: "HTML",
     questions: [
       {
@@ -32,6 +33,7 @@ const data = [
     ],
   },
   {
+    idCategory: 2,
     category: "CSS",
     questions: [
       {
@@ -53,6 +55,7 @@ const data = [
     ],
   },
   {
+    idCategory: 3,
     category: "JavaScript",
     questions: [
       {
