@@ -19,6 +19,7 @@ const data = [
         question: "As listas não ordenadas tem a tag de:",
         options: ["<ol>", "<ul>", "<li>", "<list>"],
         answer: "<ul>",
+        tip: "Unordered List", 
       },
       {
         question: "Qual atributo deixa o input obrigatório?",
@@ -51,6 +52,18 @@ const data = [
         question: "A posição que deixa um elemento fixo é a:",
         options: ["static", "absolute", "fixed", "relative"],
         answer: "fixed",
+        tip: "Fixo em inglês",
+      },
+      {
+        question: "O que significa CSS?",
+        options: ["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+        answer: "Cascading Style Sheets",
+      },
+      {
+        question: "Qual é a sintaxe CSS correta?",
+        options: ["body { color: black; }", "body: color= black;", "{ body: color= black; }", "{ body= color: black; }"],
+        answer: "body { color: black; }",
+        tip: "Seletor seguido do bloco de declarações",
       },
     ],
   },
@@ -67,11 +80,13 @@ const data = [
           "Um compilador de JavaScript",
         ],
         answer: "JavaScript puro",
+        tip: "Refere à versão mais comum ou mais simples"
       },
       {
         question: "Com qual instrução declaramos uma constante em JavaScript?",
         options: ["const", "let", "var", "define"],
         answer: "const",
+        tip: "Relacionado a palavra constant"
       },
       {
         question: "Qual dos tipos de dado a seguir não existe em JavaScript?",
@@ -84,10 +99,10 @@ const data = [
         answer: "querySelector",
       },
       {
-        question:
-          "Qual destas propriedades da a quantidade de elementos de um array?",
+        question: "Qual destas propriedades da a quantidade de elementos de um array?",
         options: ["qty", "length", "items", "index"],
         answer: "length",
+        tip: "Comprimento em inglês"
       },
     ],
   },
