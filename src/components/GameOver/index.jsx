@@ -1,4 +1,4 @@
-import "./Gameover.css";
+import "./GameOver.css";
 import { useQuiz } from "../../context/quiz";
 import WellDone from "../../assets/img/welldone.svg";
 
