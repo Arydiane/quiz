@@ -15,8 +15,8 @@ O quiz foi inicialmente inspirado no [tutorial do Matheus Battisti](https://www.
 ## 💻 Layout  
 
 <p align="center">
-  <img alt="Projeto Quiz" title="Quiz" src="img/tela-inicial.png" width="400px">
-  <img alt="Projeto Quiz" title="Quiz" src="img/tela-questao.png" width="400px">
+  <img alt="Projeto Quiz" title="Quiz" src="public/img/tela-inicial.png" width="400px">
+  <img alt="Projeto Quiz" title="Quiz" src="public/img/tela-questao.png" width="400px">
 </p>
     
 ## 🔧 Tecnologias
